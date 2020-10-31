@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T13:53:31.437Z" agent="5.0 (X11)" etag="41FmXLaeYawkkT5zs-JS" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-31T13:57:00.345Z" agent="5.0 (X11)" etag="aHY-p2KhYondLcJT5Tq7" version="13.8.3" type="github" pages="2">
   <diagram id="6YZgfYD54lgICNXOSClO" name="Page-1">
     <mxGraphModel dx="1896" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
           <mxGeometry x="54.150000000000006" y="440" width="29.7" height="21" as="geometry" />
         </mxCell>
         <mxCell id="SfYpkvx_XkUfN46bOGZN-50" value="Wireless communication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="SfYpkvx_XkUfN46bOGZN-1">
-          <mxGeometry x="100" y="441" width="137" height="20" as="geometry" />
+          <mxGeometry x="100" y="441" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SfYpkvx_XkUfN46bOGZN-51" value="1" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;strokeColor=#999999;" vertex="1" parent="SfYpkvx_XkUfN46bOGZN-1">
           <mxGeometry x="290" y="410" width="20" height="20" as="geometry" />
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SfYpkvx_XkUfN46bOGZN-55" value="Data/Request flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="SfYpkvx_XkUfN46bOGZN-1">
-          <mxGeometry x="325" y="440" width="200" height="20" as="geometry" />
+          <mxGeometry x="330" y="440" width="143" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
