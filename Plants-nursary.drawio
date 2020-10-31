@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T13:57:00.345Z" agent="5.0 (X11)" etag="aHY-p2KhYondLcJT5Tq7" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-31T18:47:36.041Z" agent="5.0 (X11)" etag="0MFOPqqUR11OYBLDq8Ab" version="13.8.3" type="github" pages="2">
   <diagram id="6YZgfYD54lgICNXOSClO" name="Page-1">
-    <mxGraphModel dx="1896" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="150" y="80" width="650" height="390" as="geometry" />
         </mxCell>
         <mxCell id="LUAZlB9GY4TvRt2_GT7k-15" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="110" width="120" height="340" as="geometry" />
+          <mxGeometry y="180" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aIGsuu7PZGqgF0DpAvw9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.825;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LUAZlB9GY4TvRt2_GT7k-1" target="aIGsuu7PZGqgF0DpAvw9-3">
           <mxGeometry relative="1" as="geometry" />
@@ -16,48 +16,8 @@
         <mxCell id="LUAZlB9GY4TvRt2_GT7k-1" value="Cloud IoT&#xa;Core" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_iot_core" parent="1" vertex="1">
           <mxGeometry x="220" y="230" width="66" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LUAZlB9GY4TvRt2_GT7k-2" target="LUAZlB9GY4TvRt2_GT7k-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="170" />
-              <mxPoint x="140" y="259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-2" value="&lt;div&gt;Humidity&lt;/div&gt;&lt;div&gt;Sensors&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alexa_enabled_device;fillColor=#5294CF;gradientColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="150" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LUAZlB9GY4TvRt2_GT7k-4" target="LUAZlB9GY4TvRt2_GT7k-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-4" value="Temperature&lt;div&gt;Sensors&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alexa_enabled_device;gradientColor=none;fillColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="30" y="239.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LUAZlB9GY4TvRt2_GT7k-6" target="LUAZlB9GY4TvRt2_GT7k-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="360" />
-              <mxPoint x="140" y="259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-6" value="pH&lt;div&gt;Sensors&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alexa_enabled_device;gradientColor=none;fillColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="30" y="340" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LUAZlB9GY4TvRt2_GT7k-12" target="LUAZlB9GY4TvRt2_GT7k-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-12" value="Device Registration Admin" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="193" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LUAZlB9GY4TvRt2_GT7k-13" target="LUAZlB9GY4TvRt2_GT7k-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LUAZlB9GY4TvRt2_GT7k-13" target="LUAZlB9GY4TvRt2_GT7k-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LUAZlB9GY4TvRt2_GT7k-13" value="Device Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=1;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="238" y="-30" width="30" height="60" as="geometry" />
+        <mxCell id="LUAZlB9GY4TvRt2_GT7k-2" value="Sensor Device" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alexa_enabled_device;fillColor=#5294CF;gradientColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="220" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIGsuu7PZGqgF0DpAvw9-1" value="BigQuery" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;shadow=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="230" width="66" height="58.5" as="geometry" />
@@ -80,8 +40,8 @@
         <mxCell id="aIGsuu7PZGqgF0DpAvw9-7" value="Stackdriver" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=stackdriver;shadow=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="66" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="aIGsuu7PZGqgF0DpAvw9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="573" y="99.25" width="120" height="60" as="geometry" />
+        <mxCell id="8xCyu5L2LR6TyiC7LhDT-1" value="IoT Device&lt;br&gt;Registry" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_iot_core" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="66" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
