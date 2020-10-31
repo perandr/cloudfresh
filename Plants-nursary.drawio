@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T19:47:41.770Z" agent="5.0 (X11)" etag="UaeJ7BhrHlfsKiGlGppx" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-31T20:07:14.188Z" agent="5.0 (X11)" etag="eAikpRNo66FyA4xrtiRx" version="13.8.3" type="github" pages="2">
   <diagram id="6YZgfYD54lgICNXOSClO" name="Page-1">
     <mxGraphModel dx="721" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,11 +47,23 @@
         <mxCell id="aIGsuu7PZGqgF0DpAvw9-3" value="Cloud&lt;br&gt;&lt;div&gt;Pub/Sub&lt;/div&gt;&lt;div&gt;Topic&lt;/div&gt;" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub;shadow=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="210.75" width="66" height="58.5" as="geometry" />
         </mxCell>
+        <mxCell id="8xCyu5L2LR6TyiC7LhDT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.175;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aIGsuu7PZGqgF0DpAvw9-7" target="8xCyu5L2LR6TyiC7LhDT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIGsuu7PZGqgF0DpAvw9-7" value="Stackdriver" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=stackdriver;shadow=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="100" width="66" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="8xCyu5L2LR6TyiC7LhDT-15" value="" style="shape=card;whiteSpace=wrap;html=1;shadow=0;strokeColor=#999999;fillColor=none;align=left;rotation=90;size=34;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="235.87" y="14.79" width="30.57" height="181.26" as="geometry" />
+        </mxCell>
+        <mxCell id="8xCyu5L2LR6TyiC7LhDT-17" value="Monitoring" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_deployment_manager;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="100" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8xCyu5L2LR6TyiC7LhDT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8xCyu5L2LR6TyiC7LhDT-19" target="aIGsuu7PZGqgF0DpAvw9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8xCyu5L2LR6TyiC7LhDT-19" value="Cloud&#xa;Datalab" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_datalab;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="110" width="66" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
